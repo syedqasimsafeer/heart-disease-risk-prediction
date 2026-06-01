@@ -46,7 +46,8 @@ The original target values are converted into a binary classification problem:
 
 ## Deployment
 
-The project includes a Streamlit web app.
+The project includes a Streamlit web app. The link for the deployment is:
+https://heart-disease-risk-prediction-m.streamlit.app/
 
 ## How to Run
 
